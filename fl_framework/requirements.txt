@@ -1,0 +1,10 @@
+# Core numerical stack
+numpy>=1.24,<3.0
+
+# Deep learning
+# Install the appropriate PyTorch build for your platform/CUDA version.
+torch>=2.2,<3.0
+torchvision>=0.17,<0.25
+
+# Visualization
+matplotlib>=3.8,<4.0

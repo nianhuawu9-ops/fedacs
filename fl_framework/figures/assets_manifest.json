@@ -1,0 +1,9 @@
+{
+  "table_main": ".\\results\\paper_suite\\paper_assets\\table_main_results.csv",
+  "table_ablation": ".\\results\\paper_suite\\paper_assets\\table_ablation.csv",
+  "fig_main_accuracy_heatmaps": ".\\results\\paper_suite\\paper_assets\\fig_main_accuracy_heatmaps.png",
+  "fig_main_fairness_heatmaps": ".\\results\\paper_suite\\paper_assets\\fig_main_fairness_heatmaps.png",
+  "fig_hardcase_summary": ".\\results\\paper_suite\\paper_assets\\fig_hardcase_summary.png",
+  "fig_ablation_bars": ".\\results\\paper_suite\\paper_assets\\fig_ablation_bars.png",
+  "paper_summary": ".\\results\\paper_suite\\paper_assets\\paper_summary.tex"
+}
